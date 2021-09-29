@@ -10,7 +10,7 @@ Log analysis (LA) or petrophysics is the geosciences discipline that integrate a
 
 <h2>Format</h2>
 
-The course is composed by an introduction (pdf) and 3 online sessions of 2 hours and 45 minutes (15 minutes break). Before session 1, the participants have to read the introduction and installed Python and Jupyter according to the instructions given in the introduction. Installation problems cannot be tackled during the sessions.
+The course is composed by an introduction (pdf) and 3 online sessions of 2 hours and 45 minutes (15 minutes break). Before session 1, the participants have to read the introduction and installed Python and Jupyter according to the instructions given in the introduction. Installation problems cannot be tackled during the sessions. Each session has a folder with its corresping data, images, and Jupyter Notebooks (theory and exercises) which are the main working platform for this course. 
 
 <h2>Attendees and requirements</h2>
 
