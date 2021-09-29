@@ -18,7 +18,37 @@ Geoscientist and engineers with basic knowledge of open-hole log analysis. Perso
 
 <h2>Table of contents</h2>
 
-* Introduction: Coding. Python and its packages. Installing Python & Jupyter
+* Introduction:
+      Coding. Python and its packages. Installing Python & Jupyter
 * Session 1: Variables and  data types. Arrays. Python structure and functions
 * Session 2: Flow control. Read and write text files. Plots. Basic statistics
 * Session 3: Well information loading and verification. Parameters selection. Output logs and summation. Simple estimation of rock typing and K
+
+<h2>Libraries for each session</h2>
+
+Here is a list of commands that need to be executed in a Command Prompt window in order to have the necessary libraries for each session:
+
+* Session 1:
+
+        python -m pip install --upgrade pip
+        pip install jupyter 
+        pip install numpy
+        pip install matplotlib
+
+* Session 2:
+
+        pip install xlrd
+        pip install pandas
+        pip install scipy
+        pip install seaborn
+        
+* Session 3:
+
+        pip install autopep8
+        pip install jupyter_contrib_nbextensions
+        pip install jupyter_nbextensions_configurator
+        jupyter contrib nbextension install --user
+        jupyter nbextensions_configurator enable --user
+        pip install pyqt5	
+        pip install pillow
+        pip install -U scikit-learn
