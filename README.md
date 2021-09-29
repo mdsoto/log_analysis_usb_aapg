@@ -25,7 +25,7 @@ Geoscientist and engineers with basic knowledge of open-hole log analysis. Perso
 
 <h2>Libraries for each session</h2>
 
-Here is a list of commands that need to be executed in a Command Prompt window in order to have the necessary libraries for each session:
+Here is a list of commands that need to be executed in a Command Prompt window (CMD) in order to have the necessary libraries for each session:
 
 * Session 1:
 
