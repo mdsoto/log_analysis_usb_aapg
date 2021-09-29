@@ -10,7 +10,9 @@ Log analysis (LA) or petrophysics is the geosciences discipline that integrate a
 
 <h2>Format</h2>
 
-The course is composed by an introduction (pdf not provided here) and 3 online sessions of 2 hours and 45 minutes (15 minutes break). Before session 1, the participants have to read the introduction and installed Python and Jupyter according to the instructions given in the introduction. Installation problems cannot be tackled during the sessions. Each session has a folder with its corresponding data, images, and Jupyter Notebooks (theory and exercises). Along the course, Jupyter Notebook is the environment that we use to develop our Python codes.
+The course is composed by an introduction (pdf not provided here) and 3 online sessions of 2 hours and 45 minutes (15 minutes break). Before session 1, the participants have to read the introduction and installed Python and Jupyter Notebook according to the instructions given in the introduction. Installation problems cannot be tackled during the sessions. Each session has a folder with its corresponding data, images, and Jupyter Notebooks (theory and exercises). Along the course, Jupyter Notebook is the environment that we use to develop our Python codes. The exercises are shown in all theoretical Notebooks (Session_1_variables_data_arrays_functions.ipynb) however, it is recommended to work the exercises in the Notebook intended just for that (Session_1_exercises.ipynb), in that way the theoretical Notebook is preserved for future references.
+
+
 
 <h2>Attendees and requirements</h2>
 
