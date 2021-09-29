@@ -1,4 +1,4 @@
-<img src="NB_images\portada.png" style="width:1000px" align="center">
+<img src="portada.png" style="width:1000px" align="center">
 
 <h2>About this material</h2>
 
