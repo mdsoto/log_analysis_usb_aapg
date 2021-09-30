@@ -53,3 +53,11 @@ Here is a list of commands that need to be executed in a Command Prompt window (
         pip install pyqt5	
         pip install pillow
         pip install -U scikit-learn
+        
+<h2>Note on the Readme files</h2>
+
+The Readme(.md) files were obtained from the Jupyter Notebooks (.ipynb) thanks to the following wonderful converter:
+
+https://alldocs.app/convert-jupyter-notebook-to-markdown
+    
+As no conversion is perfect, the Readme.md files inside the sessions are just a visual reference, the real performance of the cell is obtained only by running the corresponding Jupyter Notebooks.
