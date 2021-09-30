@@ -18,7 +18,7 @@ The course is composed by an introduction (pdf not provided here) and 3 online s
 
 Geoscientist and engineers with basic knowledge of open-hole log analysis. Personal computer (with Windows 10 preferably) with Internet connection.
 
-<h2>Table of contents</h2>
+<h2>Summarized table of contents</h2>
 
 * Introduction (pdf not provided here): Coding. Python and its packages. Installing Python & Jupyter
 * Session 1: Variables and  data types. Arrays. Python structure and functions
