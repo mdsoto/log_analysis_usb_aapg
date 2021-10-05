@@ -61,3 +61,5 @@ The Readme(.md) files were obtained from the Jupyter Notebooks (.ipynb) thanks t
 https://alldocs.app/convert-jupyter-notebook-to-markdown
     
 As no conversion is perfect, the Readme files inside the sessions are just a visual reference, the real performance of the cell is obtained only by running the corresponding Jupyter Notebooks.
+
+Vergacion
